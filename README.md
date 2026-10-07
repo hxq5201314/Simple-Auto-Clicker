@@ -1,1 +1,1 @@
-# AutoClicker
+# 简易连点器
